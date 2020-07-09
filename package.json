@@ -1,5 +1,5 @@
 {
-  "name": "EpictetusSpeaks",
+  "name": "epictetusspeaks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -33,7 +33,14 @@
   },
   "description": "Beginner project",
   "main": "index.js",
-  "repository": "https://github.com/JackMunn/epicetetusSpeaks.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackMunn/epicetetusSpeaks.git"
+  },
   "author": "jackmunn <Jackmunn@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JackMunn/epicetetusSpeaks/issues"
+  },
+  "homepage": "https://github.com/JackMunn/epicetetusSpeaks#readme"
 }
