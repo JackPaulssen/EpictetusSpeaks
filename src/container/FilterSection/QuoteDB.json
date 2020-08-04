@@ -31,7 +31,7 @@
     },
     {
       "id": "006",
-      "description": "he that is being instructed ought to come to his instruction with this aim, 'How may I follow the gods in everything, and how may I be acceptable to the divine administration, and how may I become free?' Since he is free for whom all things happen according to his moral purpose, and whom none can restrain. ",
+      "description": "he that is being instructed ought to come to his instruction with this aim, 'How may I follow the gods in everything, and how may I be acceptable to the divine administration, and how may I become free?' Since he is free for whom all things happen according to his moral purpose, and whom none can restrain.",
       "source": "1.12 Of Contentment",
       "keywords": ["religion"]
     },
@@ -67,13 +67,13 @@
     },
     {
       "id": "012",
-      "description": "Do you not know how small a part you are compared with the whole? That is, as to the body; for as to the reason you are not inferior to the gods, nor less than they; for the greatness of the reason is not determined by length nor by height, but by the decisions of its will.",
+      "description": "Do you not know how small a part you are compared with the whole? That is, as to the body; for as to reason, you are not inferior to the gods, nor less than they; for the greatness of the reason is not determined by length nor by height, but by the decisions of its will.",
       "source": "1.12 Of Contentment",
       "keywords": ["tranquility", "religion", "fundamentals"]
     },
     {
       "id": "013",
-      "description": "Do you not rather render thanks to the gods that they have allowed you to be superior to all the thigns that they did not put under your control, and have rendered you accountable only for what is under your control? As for parents, the gods have released you; as for body, they have released you; and for property, death, life. Well, for what have they made you accountable? For the only thing that is under your control - the proper use of impressions.",
+      "description": "Do you not rather render thanks to the gods that they have allowed you to be superior to all the things that they did not put under your control, and have rendered you accountable only for what is under your control? As for parents, the gods have released you; as for body, they have released you; and for property, death, life. Well, for what have they made you accountable? For the only thing that is under your control - the proper use of impressions.",
       "source": "1.12 Of Contentment",
       "keywords": ["tranquility", "religion", "fundamentals"]
     },
@@ -129,6 +129,42 @@
       "id": "022",
       "description": "This is the reason, I suppose, why the Stoic philosophers put logic first, just as in the measuring of grain we put first the examination of the measure, and if we do not define first what a modius is, and do not defined first what a scale is, how shall we be able to proceed with measuring or weighing anything?",
       "source": "1.17 That the art of reasonign is indispensible",
+      "keywords": ["instruction","fundamentals"]
+    },
+    {
+      "id": "023",
+      "description": "For, mark you, stop admiring your clothes, and you are not angry at the man who steals them; stop admiring your wife's beauty, and you are not angry at her adulterer. Know that a thief or an adulterer has no place among the things that are your own, butonly among the things that another's and that are not under your control.",
+      "source": "1.18 That we ought not be angry with the erring",
+      "keywords": ["instruction","fundamentals"]
+    },
+    {
+      "id": "024",
+      "description": "Why, when you show a cake to gluttonous men and then gulp it down all to yourself, are you not wanting them to snatch it? Stop provoking them, stop having a window, stop airing your clothes.",
+      "source": "1.18 That we ought not be angry with the erring",
+      "keywords": ["instruction","fundamentals"]
+    },
+    {
+      "id": "025",
+      "description": "Who, then, is the invincable man? He whom nothing that is outside the sphere of his moral purpose can dismay.",
+      "source": "1.18 That we ought not be angry with the erring",
+      "keywords": ["instruction","fundamentals"]
+    },
+    {
+      "id": "026",
+      "description": "What is it, then, that disturbs and bewilders the multitude? Is it the tyrant and his bodyguards? How is that possible? Nay, far from it! It is not possible that that which is by nature fre should be disturbed or thwarted by anything but itself. But it is a man's own judgements that disturb him.",
+      "source": "1.19 How ought we to bear ourselves against tyrants?",
+      "keywords": ["instruction","fundamentals"]
+    },
+    {
+      "id": "027",
+      "description": "For when the tyrant says to a man, 'I will chain your leg,' the man who has set a high value on his leg replies, 'Nay, have mercy on me,' while the man who has set a high value on his moral purpose replies, 'if it seems more profitable to you to do so, chain it.' 'Do you not care?' 'No, I do not care.' 'I will show you that I am master.' 'How can you be my master? Zeus has set me free. Or do you really think that he was likely to let his own son be made a slave? You are, however, master of my dead body, take it'.",
+      "source": "1.19 How ought we to bear ourselves against tyrants?",
+      "keywords": ["instruction","religion", "death"]
+    },
+    {
+      "id": "026",
+      "description": "",
+      "source": "1.19 How ought we to bear ourselves against tyrants?",
       "keywords": ["instruction","fundamentals"]
     }
 
